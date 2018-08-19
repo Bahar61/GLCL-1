@@ -1,0 +1,18 @@
+body{
+  background-color: #505253;
+}
+h1{
+  font-size:50px;
+  text-align:center;
+  color: #D2D6D6;
+}
+.iphone-wrapper{
+  width:400px;
+  border:1px solid black;
+  height:900px;
+}
+.button-row{
+  display:flex;
+  justify-content:center;
+  color: #FDFEFE;
+}
